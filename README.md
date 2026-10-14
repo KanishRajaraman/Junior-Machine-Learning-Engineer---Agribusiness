@@ -51,8 +51,6 @@ A model trained on this data without preparation learns the errors. In this proj
 | `agri_raw_messy.csv` | The raw, defective dataset (1,845 rows) |
 | `agri_clean_truth.csv` | The true values, used for scoring and fair test labels |
 | `agri_model_ready.csv` | The pipeline output: cleaned, imputed, engineered and encoded |
-| `requirements.txt` | Python dependencies |
-| `ML_Agribusiness_Week2_Data_Preprocessing_Report.docx` | The full written report with methods, tables and justification |
 
 ## How to run
 
